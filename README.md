@@ -1,7 +1,8 @@
 <!-- # Howdy! Welcome to my page! 👋 -->
-<img src='images/Mabuhay_gif.gif' alt="night programming"></img>
+<img src='night programming.gif' width='100%' height='350px' alt="night programming"></img>
 
-My name is Ayman mostafa. I am a Front-end developer based from Egypt with a Bachelor of Management Informations Systems (MIS) degree from the [El Shorouk Academy (Egypt)](https://hicit.sha.edu.eg/department-mis.php) and more than 5 years of IT experience. I love building and seeing projects come to life. I love front-end development the most! Currently just completed a fully remote apprenticeship program with Microsoft Leap and now transitioned as a full-time Software Engineer at Microsoft.
+# Hi There 👋 , I am Ayman Mostafa 
+I am a Front-end developer based from Egypt with a Bachelor of Management Informations Systems (MIS) degree from the [El Shorouk Academy (Egypt)](https://hicit.sha.edu.eg/department-mis.php) and more than 5 years of IT experience. I love building and seeing projects come to life. I love front-end development the most! Currently just completed a fully remote apprenticeship program with Microsoft Leap and now transitioned as a full-time Software Engineer at Microsoft.
 
 🌱 **Learning**: Currently sharpening my JavaScript, TypeScript and React skills. Practicing said skills by building a small project called [Taskies](https://github.com/tolentinoel/Typescript_taskies) -- a to-do list app built from Typescript!<br/>
 💡 **Fun fact**: I am a percussion aficionado, my most favorite instruments are the drums 🥁 and acoustic guitar.
@@ -19,11 +20,11 @@ My name is Ayman mostafa. I am a Front-end developer based from Egypt with a Bac
 
 
 # Skills | Frameworks
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
