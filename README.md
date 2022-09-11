@@ -2,10 +2,10 @@
 <img src='night programming.gif' width='100%' height='350px' alt="night programming"></img>
 
 # Hi There 👋 , I am Ayman Mostafa 
-I am a Front-end developer based from Egypt with a Bachelor of Management Informations Systems (MIS) degree from the [El Shorouk Academy (Egypt)](https://hicit.sha.edu.eg/department-mis.php) and more than 5 years of IT experience. I love building and seeing projects come to life. I love front-end development the most! Currently just completed a fully remote apprenticeship program with Microsoft Leap and now transitioned as a full-time Software Engineer at Microsoft.
+I am a Front-end developer based from Egypt with a Bachelor of Management Informations Systems (MIS) degree from the [El Shorouk Academy (Egypt)](https://hicit.sha.edu.eg/department-mis.php) and more than 5 years of IT experience. I love building and seeing projects come to life. I love front-end development the most! Currently I am looking for new challenges.
 
-🌱 **Learning**: Currently sharpening my JavaScript, TypeScript and React skills. Practicing said skills by building a small project called [Taskies](https://github.com/tolentinoel/Typescript_taskies) -- a to-do list app built from Typescript!<br/>
-💡 **Fun fact**: I am a percussion aficionado, my most favorite instruments are the drums 🥁 and acoustic guitar.
+🌱 **Learning**: Currently sharpening my JavaScript, TypeScript and React skills. 
+
 
 
 ## How to reach me 📫:
@@ -13,8 +13,6 @@ I am a Front-end developer based from Egypt with a Bachelor of Management Inform
     <a href="mailto:ayman.mosstafa@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/ayman-mostafa2018/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://codepen.io/Ayman-2013s4" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=green"/></a>
-    <a href="https://github.com/Ayman91" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=violet"/>
-    </a>
 </span>
 <br/>
 
@@ -47,19 +45,3 @@ _Work in progress.._
 <br/>
 
 
-
-<img src='images/Github_banner.png' alt="banner"></img>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
