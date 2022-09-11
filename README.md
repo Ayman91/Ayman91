@@ -1,5 +1,5 @@
 <!-- # Howdy! Welcome to my page! 👋 -->
-<img src='images/Mabuhay_gif.gif' alt="banner mabuhay"></img>
+<img src='images/Mabuhay_gif.gif' alt="night programming"></img>
 
 My name is Ayman mostafa. I am a Front-end developer based from Egypt with a Bachelor of Management Informations Systems (MIS) degree from the [El Shorouk Academy (Egypt)](https://hicit.sha.edu.eg/department-mis.php) and more than 5 years of IT experience. I love building and seeing projects come to life. I love front-end development the most! Currently just completed a fully remote apprenticeship program with Microsoft Leap and now transitioned as a full-time Software Engineer at Microsoft.
 
@@ -18,7 +18,7 @@ My name is Ayman mostafa. I am a Front-end developer based from Egypt with a Bac
 <br/>
 
 
-# Skills/Frameworks
+# Skills | Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -29,9 +29,8 @@ My name is Ayman mostafa. I am a Front-end developer based from Egypt with a Bac
 
 <span>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayman91&theme=nightowl&show_icons=true)
-![Ayman's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman91&layout=compact&theme=merko)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman91&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayman91&theme=codeSTACKr&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman91&theme=codeSTACKr&layout=compact)](https://github.com/Ayman91/github-readme-stats)
 </span>
 
 # Projects
