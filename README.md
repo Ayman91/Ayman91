@@ -32,7 +32,7 @@ My name is Ayman mostafa. I am a Front-end developer based from Egypt with a Bac
 ![Ayman's github stats](https://github-readme-stats.vercel.app/api?username=Ayman91&theme=merko&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayman91&theme=dark&show_icons=true)
 ![Ayman's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman91&layout=compact&theme=merko)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </span>
 
 # Projects
