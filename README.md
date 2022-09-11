@@ -1,7 +1,7 @@
 <!-- # Howdy! Welcome to my page! 👋 -->
 <img src='images/Mabuhay_gif.gif' alt="banner mabuhay"></img>
 
-My name is Ayman mostafa. I am a Front-end developer based from Egypt with a Bachelor of Management Informations Systems (MIS) degree from the [El Shorouk Academy (Egypt)](https://hicit.sha.edu.eg/department-mis.php) and more than 8 years of IT experience. I love building and seeing projects come to life. I love front-end development the most! Currently just completed a fully remote apprenticeship program with Microsoft Leap and now transitioned as a full-time Software Engineer at Microsoft.
+My name is Ayman mostafa. I am a Front-end developer based from Egypt with a Bachelor of Management Informations Systems (MIS) degree from the [El Shorouk Academy (Egypt)](https://hicit.sha.edu.eg/department-mis.php) and more than 5 years of IT experience. I love building and seeing projects come to life. I love front-end development the most! Currently just completed a fully remote apprenticeship program with Microsoft Leap and now transitioned as a full-time Software Engineer at Microsoft.
 
 🌱 **Learning**: Currently sharpening my JavaScript, TypeScript and React skills. Practicing said skills by building a small project called [Taskies](https://github.com/tolentinoel/Typescript_taskies) -- a to-do list app built from Typescript!<br/>
 💡 **Fun fact**: I am a percussion aficionado, my most favorite instruments are the drums 🥁 and acoustic guitar.
@@ -37,7 +37,7 @@ My name is Ayman mostafa. I am a Front-end developer based from Egypt with a Bac
 
 # Projects
 
-### Taskies | July 2022 | [Repo](https://github.com/tolentinoel/Typescript_taskies)
+### project name | July 2022 | [Repo](https://github.com/)
 _Work in progress.._
 <br/>
 
