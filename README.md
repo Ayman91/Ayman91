@@ -1,5 +1,5 @@
 <!-- # Howdy! Welcome to my page! 👋 -->
-<img src='night programming.gif' width='100%' height='350px' alt="night programming"></img>
+<img src='lain.gif' width='100%' height='350px' alt="night programming"></img>
 
 # Hi There 👋 , I am Ayman Mostafa 
 I am a Front-end developer based from Egypt with a Bachelor of Management Informations Systems (MIS) degree from the [El Shorouk Academy (Egypt)](https://hicit.sha.edu.eg/department-mis.php) and more than 5 years of IT experience. I love building and seeing projects come to life. I love front-end development the most! Currently I am looking for new challenges.
