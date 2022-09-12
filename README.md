@@ -6,8 +6,6 @@ I am a Front-end developer based from Egypt with a Bachelor of Management Inform
 
 🌱 **Learning**: Currently sharpening my JavaScript, TypeScript and React skills. 
 
-
-
 ## How to reach me 📫:
 <div>
     <a href="mailto:ayman.mosstafa@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
