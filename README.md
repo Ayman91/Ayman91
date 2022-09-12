@@ -9,12 +9,11 @@ I am a Front-end developer based from Egypt with a Bachelor of Management Inform
 
 
 ## How to reach me 📫:
-<span>
+<div>
     <a href="mailto:ayman.mosstafa@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/ayman-mostafa2018/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://codepen.io/Ayman-2013s4" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=green"/></a>
-</span>
-<br/>
+</div>
 
 
 # Skills | Frameworks
@@ -26,7 +25,7 @@ I am a Front-end developer based from Egypt with a Bachelor of Management Inform
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-<div align="center">
+<div>
   <a href="https://github.com/Ayman91">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayman91&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman91&layout=compact&langs_count=7&theme=codeSTACKr"/>
