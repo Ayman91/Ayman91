@@ -26,11 +26,11 @@ I am a Front-end developer based from Egypt with a Bachelor of Management Inform
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-<span>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayman91&theme=codeSTACKr&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman91&theme=codeSTACKr&layout=compact)](https://github.com/Ayman91/github-readme-stats)
-</span>
+<div align="center">
+  <a href="https://github.com/Ayman91">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayman91&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman91&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
 
 # Projects
 
